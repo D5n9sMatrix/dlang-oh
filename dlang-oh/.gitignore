@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dlang-oh
+dlang-oh.so
+dlang-oh.dylib
+dlang-oh.dll
+dlang-oh.a
+dlang-oh.lib
+dlang-oh-test-*
+*.exe
+*.o
+*.obj
+*.lst
